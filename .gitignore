@@ -2,3 +2,6 @@
 .nrepl-port
 target
 .#*
+.classpath
+.project
+.settings/
